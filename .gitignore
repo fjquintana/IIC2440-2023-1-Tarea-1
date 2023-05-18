@@ -7,4 +7,4 @@ tests.ipynb
 
 .ipynb_checkpoints
 
-hash_signatures.npy
+*.npy
